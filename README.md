@@ -8,4 +8,4 @@ I did this project as a term project for my Machine Learning course in MS Data S
 
 The study introduces Hyper-SAGNN, a graph representation learning model that predicts hyperedges on homogeneous and heterogeneous hypergraphs using self-attention mechanism.
 
-[Report Link](https://drive.google.com/file/d/1cqZHOh4yyXDR5wcuM22jE1sGghtAQsCm/view)
+[Report Link](https://github.com/ans92/Machine-Learning-Term-Project/blob/main/Machine_Learning_term_project_Ans_Munir_paper.pdf)
